@@ -54,7 +54,7 @@ TypeScript · React · TanStack Start · React Native / Expo · Node.js (Hono) �
 
 ## Contact
 
-**Romain Nivelle** · THE LEVEL CODE
+**Romain Nivelle** · THE LEVEL CODE<br>
 [contact@thelevelcode.com](mailto:contact@thelevelcode.com) · 06 73 80 64 34 · [thelevelcode.com](https://thelevelcode.com)
 
 ---
@@ -89,5 +89,5 @@ We design, build and run it ourselves in production, so offline mode, sync, back
 
 ## Contact
 
-**Romain Nivelle** · THE LEVEL CODE
+**Romain Nivelle** · THE LEVEL CODE<br>
 [contact@thelevelcode.com](mailto:contact@thelevelcode.com) · +33 6 73 80 64 34 · [thelevelcode.com](https://thelevelcode.com)
