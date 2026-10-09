@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Studio de développement logiciel à Lille</strong><br>
+  <strong>Studio de développement logiciel</strong><br>
   Logiciel métier, application mobile et web, application terrain hors ligne, SaaS B2B, reprise de code.
 </p>
 
@@ -22,7 +22,7 @@
 
 ## Ce que nous faisons
 
-Nous construisons l'outil qui colle au métier de nos clients, du cadrage à l'exploitation.
+Nous construisons l'outil qui colle au métier de nos clients, du cadrage à l'exploitation. Un seul interlocuteur du premier rendez-vous à la mise en production : Romain Nivelle, qui cadre chaque projet, en fixe les choix techniques et en répond jusqu'au bout.
 
 | Service | En bref |
 |---|---|
@@ -54,7 +54,7 @@ TypeScript · React · TanStack Start · React Native / Expo · Node.js (Hono) �
 
 ## Contact
 
-THE LEVEL CODE — SASU · 266 rue Nationale, 59800 Lille
+**Romain Nivelle** · THE LEVEL CODE
 [contact@thelevelcode.com](mailto:contact@thelevelcode.com) · 06 73 80 64 34 · [thelevelcode.com](https://thelevelcode.com)
 
 ---
@@ -63,7 +63,7 @@ THE LEVEL CODE — SASU · 266 rue Nationale, 59800 Lille
 
 ## What we do
 
-THE LEVEL CODE is a software studio based in Lille, France. We build the tool that fits our clients' work, from scoping to operations.
+THE LEVEL CODE is a software studio. We build the tool that fits our clients' work, from scoping to operations. One point of contact from the first meeting to production: Romain Nivelle, who scopes every project, sets its technical direction and answers for it all the way.
 
 | Service | In short |
 |---|---|
@@ -89,5 +89,5 @@ We design, build and run it ourselves in production, so offline mode, sync, back
 
 ## Contact
 
-THE LEVEL CODE — 266 rue Nationale, 59800 Lille, France
+**Romain Nivelle** · THE LEVEL CODE
 [contact@thelevelcode.com](mailto:contact@thelevelcode.com) · +33 6 73 80 64 34 · [thelevelcode.com](https://thelevelcode.com)
