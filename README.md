@@ -5,12 +5,21 @@
   </picture>
 </p>
 
-**Full-cycle builder.** I scope, build, deploy and run software end to end: business apps, offline-first field apps, B2B SaaS, AI assistants and the infrastructure behind them. I also take over existing codebases and get them moving again.
+<p align="center">
+  <strong>Romain Nivelle</strong> · THE LEVEL CODE<br>
+  <a href="https://thelevelcode.com">thelevelcode.com</a> · <a href="mailto:contact@thelevelcode.com">contact@thelevelcode.com</a>
+</p>
 
-I build and run [Trackary](https://trackary.com), a maintenance platform for equipment fleets (web, mobile and AI), in production.
+### Français
 
-**Bâtisseur de bout en bout.** Je cadre, développe, déploie et exploite des logiciels : outils métier, applications terrain hors ligne, SaaS B2B, assistants IA et l'infrastructure qui va avec. Je reprends aussi du code existant pour le refaire avancer.
+**Bâtisseur de bout en bout.** Je cadre, développe, déploie et exploite des logiciels : outils métier, applications terrain hors ligne, SaaS B2B, assistants IA et l'infrastructure qui va avec. Je fixe les choix techniques et j'en réponds jusqu'en production. Je reprends aussi du code existant pour le refaire avancer.
 
-TypeScript · React · React Native · Node.js · PostgreSQL · Python · Go · Docker · Cloudflare
+Je construis et fais tourner [Trackary](https://trackary.com), la GMAO des parcs d'engins (web, mobile, IA), en production.
 
-[thelevelcode.com](https://thelevelcode.com) · [contact@thelevelcode.com](mailto:contact@thelevelcode.com)
+### English
+
+**Full-cycle builder.** I scope, build, deploy and run software end to end: business apps, offline-first field apps, B2B SaaS, AI assistants and the infrastructure behind them. I set the technical direction and own it all the way to production. I also take over existing codebases and get them moving again.
+
+I build and run [Trackary](https://trackary.com), a maintenance platform for equipment fleets (web, mobile, AI), in production.
+
+<p align="center">TypeScript · React · React Native · Node.js · PostgreSQL · Python · Go · Docker · Cloudflare</p>
