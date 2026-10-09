@@ -16,6 +16,10 @@
 
 Mon produit : [Trackary](https://trackary.com), la GMAO des parcs d'engins, sur le web, le mobile et avec l'IA.
 
+<p align="center">
+  <a href="https://trackary.com"><img src="assets/trackary.gif" alt="Trackary : présentation de l'application" width="720"></a>
+</p>
+
 ### English
 
 **Software that holds up in the field.** Business tools, offline mobile apps, B2B SaaS, AI assistants: I design them, make the architecture calls and keep them running in production. I also restart stalled projects.
