@@ -24,7 +24,7 @@
 
 Nous construisons l'outil qui colle au métier de nos clients, du cadrage à l'exploitation.
 
-| | |
+| Service | En bref |
 |---|---|
 | **Logiciel métier sur mesure** | Un outil construit autour de vos règles, de vos rôles et de vos données. |
 | **Application terrain** | Interventions, photos et comptes rendus des techniciens, même sans réseau. |
@@ -65,7 +65,7 @@ THE LEVEL CODE — SASU · 266 rue Nationale, 59800 Lille
 
 THE LEVEL CODE is a software studio based in Lille, France. We build the tool that fits our clients' work, from scoping to operations.
 
-| | |
+| Service | In short |
 |---|---|
 | **Custom business software** | Built around your rules, roles and data. |
 | **Field service apps** | Technicians' jobs, photos and reports, even with no network. |
