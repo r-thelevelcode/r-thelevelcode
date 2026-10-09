@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <strong>Romain Nivelle</strong> · THE LEVEL CODE<br>
   <a href="https://thelevelcode.com">thelevelcode.com</a> · <a href="mailto:contact@thelevelcode.com">contact@thelevelcode.com</a>
 </p>
 
